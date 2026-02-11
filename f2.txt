@@ -1,1 +1,2 @@
 git syllabus practice day 1
+undersanding staging area
